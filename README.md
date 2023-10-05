@@ -40,13 +40,13 @@ content = """
         </tr>
         <tr>
             <td><ul>
-                <li>Infosis</li>
+                <li>TCS</li>
                 <br>
-                <li>HCL</li>
+                <li>RENAULT</li>
                 <br>
                 <li>Wipro</li>
                 <br>
-                <li>Redington India Ltd</li>
+                <li>AMAZON</li>
                 <br>
                 <li>Tech Mahindra Limited</li>
             </ul></td>
